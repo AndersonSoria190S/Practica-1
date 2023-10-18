@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Pregunta_1\Pregunta2\bin\Debug\Pregunta2.exe.config
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Pregunta_1\Pregunta2\bin\Debug\Pregunta2.exe
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Pregunta_1\Pregunta2\bin\Debug\Pregunta2.pdb
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Pregunta_1\Pregunta2\obj\Debug\Pregunta2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Pregunta_1\Pregunta2\obj\Debug\Pregunta2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Pregunta_1\Pregunta2\obj\Debug\Pregunta2.exe
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Pregunta_1\Pregunta2\obj\Debug\Pregunta2.pdb
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Practica#1\Pregunta2\bin\Debug\Pregunta2.exe.config
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Practica#1\Pregunta2\bin\Debug\Pregunta2.exe
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Practica#1\Pregunta2\bin\Debug\Pregunta2.pdb
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Practica#1\Pregunta2\obj\Debug\Pregunta2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Practica#1\Pregunta2\obj\Debug\Pregunta2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Practica#1\Pregunta2\obj\Debug\Pregunta2.exe
+C:\Users\USER\Desktop\UNIVERSIDAD\SIS-2420\Practica#1\Pregunta2\obj\Debug\Pregunta2.pdb
